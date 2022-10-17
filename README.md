@@ -1,2 +1,4 @@
-# Ola Mundo
- primeiro repositório do curso de Git e GitHub
+# Olá, Mundo!
+ Primeiro repositório do curso de Git e GitHub
+
+Quebrando a maldição!
